@@ -3,7 +3,7 @@
 </h2>
 
 ### _About me_:
-(🚀👨🏻‍💻) Full-Stack React Developer <a href="https://app.rocketseat.com.br/certificates/a96bd5c2-7348-45b3-a3c2-11c288b3fd5b"><img align="bottom" height="30" alt="GoStack Certificated" title="GoStack Certificated" height="50" src=".github/gostack-badge.png" /></a> @ Typescript, ReactJS, React Native, Next.js, Node.js
+(🚀👨🏻‍💻) Full-stack React Developer <a href="https://app.rocketseat.com.br/certificates/a96bd5c2-7348-45b3-a3c2-11c288b3fd5b"><img align="bottom" height="30" alt="GoStack Certificated" title="GoStack Certificated" height="50" src=".github/gostack-badge.png" /></a> @ Typescript, ReactJS, React Native, Next.js, Node.js
 
 (💪💡) T-shaped Professional
 
@@ -11,7 +11,7 @@
 
 (🌱🧠) Growth Mindset
 
-(👨🏻‍💻🏢) Currently working as a Full-Stack Developer
+(👨🏻‍💻🏢) Currently working as a Full-stack Developer
 
 (💜😃) In Search of Colaboration in Next.js/React/Node.js Projects
 
@@ -42,7 +42,9 @@ Teamwork, Communication, Focus, Adaptability & Proactivity
   &nbsp;&nbsp;<img width="30" alt="CSS3" title="CSS3" src="https://cdn.svgporn.com/logos/css-3_official.svg" />
   &nbsp;&nbsp;<img width="30" alt="expo" title="Expo" src="https://cdn.svgporn.com/logos/expo-icon.svg" />
   &nbsp;&nbsp;<img width="30" alt="docker" title="Docker" src="https://cdn.svgporn.com/logos/docker-icon.svg" />
-  &nbsp;&nbsp;<img width="30" alt="Microsoft Azure" title="Microsoft Azure" src="https://cdn.svgporn.com/logos/azure-icon.svg" />
+  &nbsp;&nbsp;<img height="30" alt="AWS" title="AWS" src="https://cdn.svgporn.com/logos/aws.svg">
+  &nbsp;&nbsp;<img height="30" alt="Serverless" title="Serverless" src="https://cdn.svgporn.com/logos/serverless.svg">
+  &nbsp;&nbsp;<img width="30" alt="Microsoft Azure" title="Microsoft Azure" src="https://cdn.svgporn.com/logos/microsoft-azure.svg" />
   &nbsp;&nbsp;<img width="30" alt="Git" title="Git" src="https://cdn.svgporn.com/logos/git-icon.svg" />
   &nbsp;&nbsp;<img width="30" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.svgporn.com/logos/postgresql.svg" />
   &nbsp;&nbsp;<img height="30" alt="MongoDB" title="MongoDB" src="https://cdn.svgporn.com/logos/mongodb.svg" />
